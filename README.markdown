@@ -56,7 +56,7 @@ _Note: The `phpdox.php` bootstrap file assumes that all depedencies have been in
 In case you do clone the source repository and used composer for the dependency management, you have to use the provided
 wrapper in composer/bin/phpdox._
 
-    git clone git://github.com/theseer/phpdox.git
+    git clone git://github.com/sudwebdesign/phpdox.git
     composer install
 
 
